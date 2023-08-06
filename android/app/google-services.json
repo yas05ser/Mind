@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "108064571615",
+    "project_id": "mind-308cc",
+    "storage_bucket": "mind-308cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:108064571615:android:283cf3041ae41f30e8696a",
+        "android_client_info": {
+          "package_name": "com.rayen.mind"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQqRRyreBGQKIGar5g4jCsJ_I2CUmlOtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
